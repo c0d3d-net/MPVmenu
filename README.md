@@ -11,11 +11,11 @@ MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
 
 
 - **How to use:**
-Run ./mpvmenu.sh
+    - Run ./mpvmenu.sh
 
-Type in the full path of the folder containing video files.
-
-After you pressed Enter, MPVmenu creates a selection menu.
+    - Type in the full path of the folder containing video files.
+   
+    - After you pressed Enter, MPVmenu creates a selection menu.
 
 
 - **Issues:**
