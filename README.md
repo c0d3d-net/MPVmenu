@@ -24,11 +24,11 @@ If the folder contatins another files/folders than media files, then they will b
 
 _**Correct:**_
 
-![OK](/images/mpvmenuOK.png)
+![OK](/mpvmenuOK.png)
 Format: ![Alt Text](url)
 
 
 _**Issue:**_
 
-![ISSUE](/images/mpvmenuNOTCLEAN.png)
+![ISSUE](/mpvmenuNOTCLEAN.png)
 Format: ![Alt Text](url)
