@@ -45,9 +45,9 @@ I am still working a solution. If you know one, then let me know: dev@c0d3d.spac
 
     _**Correct:**_
 
-    ![OK](/mpvmenuOK.png)
+    ![OK](/images/mpvmenuOK.png)
 
 
     _**Issue:**_
 
-    ![ISSUE](/mpvmenuNOTCLEAN.png)
+    ![ISSUE](/images/mpvmenuNOTCLEAN.png)
