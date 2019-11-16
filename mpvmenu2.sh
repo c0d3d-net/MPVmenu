@@ -35,7 +35,6 @@ if [[ "$unamestr" == 'Darwin' ]]; then
 		    i|I)
 			echo "Install MPV player with Homebrew.";
 			brew install mpv;;
-
 		    q|Q)
 			clear;
 			echo "Goodbye.";
@@ -66,7 +65,7 @@ select file in "${files[@]}" "quit"
 do
     case $file in
     $string)
-        mpv "$file"
+        mpv --autofit-larger=90%x90% "$file"
         ## Uncomment this line if you want exit the menu after plaing:
         # break;
         ;;
