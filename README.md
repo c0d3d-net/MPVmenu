@@ -18,7 +18,7 @@ MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
     - After you pressed Enter, MPVmenu creates a selection menu.
 
 
-- **Issues:**
+- **Issue:**
 If the folder contatins another files/folders than media files, then they will be listed too (screenshot2).
 I am still working a solution. If you know one, then let me know: dev@c0d3d.space
 
