@@ -5,15 +5,18 @@ If you select a file from menu, it will be opened with MPV player.
 
 After MPV player is closed, the menu show again until you exit.
 
-MPVmenu2 does the same as MPVmenu but offers to check which OS you have and if MPV player is installed or not. If the OS is macOS (Darwin) and MPV player is not installed, it offers you to install MPV player via homebrew.
+MPVmenu2 does the same as MPVmenu but offers to check which OS you have and if MPV player is installed or not. If the OS is macOS (Darwin) and MPV player is not installed, it offers you to install MPV player automatically via homebrew.
+
+If th OS is not macOS, MPVmenu2 starts normal as MPVmenu. Checks for Linux will be added later.
+
 
 - **What you need:**
 MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
 
-On macOS you can install mpv using homebrew (https://brew.sh/):
-    ```
-    brew install mpv
-    ```
+   On macOS you can install mpv using homebrew (https://brew.sh/):
+        ```
+        brew install mpv
+        ```
     
 - **How to use:**
     - Run:
