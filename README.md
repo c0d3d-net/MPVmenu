@@ -21,7 +21,11 @@ MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
         ```
         brew install mpv
         ```
-    
+
+   On Debian based distros you can install mpv using apt:
+        ```
+        apt install mpv
+        ```    
     
 - **How to use:**
     - Run:
