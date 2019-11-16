@@ -26,11 +26,11 @@ I am still working a solution. If you know one, then let me know: dev@c0d3d.spac
 - **Screenshots:**
 
 
-_**Correct:**_
+    _**Correct:**_
 
-![OK](/mpvmenuOK.png)
+    ![OK](/mpvmenuOK.png)
 
 
-_**Issue:**_
+    _**Issue:**_
 
-![ISSUE](/mpvmenuNOTCLEAN.png)
+    ![ISSUE](/mpvmenuNOTCLEAN.png)
