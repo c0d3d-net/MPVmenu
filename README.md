@@ -25,10 +25,8 @@ If the folder contatins another files/folders than media files, then they will b
 _**Correct:**_
 
 ![OK](/mpvmenuOK.png)
-Format: ![Alt Text](url)
 
 
 _**Issue:**_
 
 ![ISSUE](/mpvmenuNOTCLEAN.png)
-Format: ![Alt Text](url)
