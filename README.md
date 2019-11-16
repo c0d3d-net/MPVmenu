@@ -10,6 +10,7 @@ MPVmenu2 does the same as MPVmenu but offers to check which OS you have and if M
 If th OS is not macOS, MPVmenu2 starts normal as MPVmenu. Checks for Linux will be added later.
 
 
+
 - **What you need:**
 MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
 
@@ -18,14 +19,20 @@ MPV player: https://mpv.io/ or https://github.com/mpv-player/mpv
         brew install mpv
         ```
     
+    
 - **How to use:**
     - Run:
         ```
         ./mpvmenu.sh
         ```
+        or
+        ```
+        ./mpvmenu2.sh
+        ```
     - Type in the full path of the folder containing video files.
    
     - After you pressed Enter, MPVmenu creates a selection menu.
+
 
 
 - **Issue:**
